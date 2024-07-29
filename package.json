@@ -1,0 +1,31 @@
+{
+  "name": "mia-reynolds",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.4",
+    "next": "latest",
+    "react": "latest",
+    "react-audio-play": "^0.0.16",
+    "react-dom": "latest",
+    "react-icons": "^4.11.0",
+    "react-parallax-mouse": "^2.0.1",
+    "react-responsive": "^9.0.2",
+    "react-scroll": "^1.8.9",
+    "react-type-animation": "^3.1.0",
+    "swiper": "^10.3.1",
+    "swr": "^2.2.4",
+    "tailwind-scrollbar": "^3.0.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
